@@ -1,0 +1,1 @@
+# Keeper app - A google keep clone with saving and viewing notes. It's made with different technologies i.e React, create-react-app and Bootstrap with Mobile-First approach using css grid feature. It's a compiled/production build of project.
